@@ -1,0 +1,25 @@
+{
+  "_about": "Hand-labelled reference promos for 'I Married a Broken Soldier. He was a Duke' (E1-E50), picked by reading every script before looking at tool output. 'split': dev = used while tuning weights, test = held out, only scored at the end. Times are mm:ss.ss from the scripts.",
+  "promos": [
+    {"id": "G01", "split": "dev",  "segments": [["1", "00:33.70", "01:19.00"]], "hook": "Gerald? Why are you holding her hand? / Because he is marrying me.", "cliff": "Long enough to know he was never going to marry you."},
+    {"id": "G02", "split": "dev",  "segments": [["2", "00:00.00", "00:47.40"]], "hook": "I cannot marry you, Juliana. You are far too plain...", "cliff": "You won't even look at me."},
+    {"id": "G03", "split": "dev",  "segments": [["3", "00:58.20", "01:28.00"], ["3", "01:59.80", "02:25.75"]], "hook": "Guards! Remove her! (dragged from church)", "cliff": "Stranger kneels: Lady Juliana... accept my hand."},
+    {"id": "G04", "split": "dev",  "segments": [["5", "00:42.50", "01:08.50"]], "hook": "And the ledger... that belongs to this family.", "cliff": "Ledger flung into mud; Juliana drops to her knees"},
+    {"id": "G05", "split": "dev",  "segments": [["11", "01:12.10", "01:46.60"]], "hook": "You planted this accusation because you cannot bear that I am happy without you!", "cliff": "Watch found in his coat: There it is. Ha!"},
+    {"id": "G06", "split": "dev",  "segments": [["12", "00:42.20", "01:24.70"]], "hook": "What do you want? / I want to see you crawl, sister.", "cliff": "Tell me where the garden is."},
+    {"id": "G07", "split": "dev",  "segments": [["13", "00:45.80", "01:29.00"]], "hook": "Juliana drops to her knees before the frozen blackthorn", "cliff": "Still clawing through thorns, Alexander screaming her name"},
+    {"id": "G08", "split": "dev",  "segments": [["16", "00:14.40", "00:54.40"]], "hook": "Thug swings; Alexander catches the club bare-handed", "cliff": "Gerald Harrington paid us! / Gerald..."},
+    {"id": "G09", "split": "dev",  "segments": [["18", "00:56.20", "01:31.50"]], "hook": "The ledger! / Leave it!", "cliff": "Beam crashes where she stood"},
+    {"id": "G10", "split": "dev",  "segments": [["24", "00:27.00", "01:03.50"]], "hook": "She is suffering. / Then let her suffer. (riding-crop strike)", "cliff": "Perhaps when your hands are black enough, you will finally remember what you are."},
+    {"id": "G11", "split": "test", "segments": [["26", "01:20.00", "01:55.50"]], "hook": "My family cast me out to rot.", "cliff": "Where did you get this ring? Speak to me!"},
+    {"id": "G12", "split": "test", "segments": [["27", "00:26.60", "01:04.80"]], "hook": "My lost son wore that exact ring.", "cliff": "Doors burst open: Show me your hand."},
+    {"id": "G13", "split": "test", "segments": [["28", "01:10.80", "01:53.30"]], "hook": "Catherine yanks the locket off her neck", "cliff": "...because no respectable man would have her."},
+    {"id": "G14", "split": "test", "segments": [["31", "01:58.40", "02:35.20"]], "hook": "Then why are you so desperate to make me kneel?", "cliff": "Red-hot iron stops inches from her eyes"},
+    {"id": "G15", "split": "test", "segments": [["34", "02:22.40", "03:10.00"]], "hook": "If you wish to save yourself, renounce these practices. / No.", "cliff": "Lady Juliana Ashcroft... (verdict withheld)"},
+    {"id": "G16", "split": "test", "segments": [["36", "02:23.20", "03:20.75"]], "hook": "After the wedding.", "cliff": "...their dead Duke is coming home."},
+    {"id": "G17", "split": "test", "segments": [["41", "01:15.80", "01:36.09"], ["42", "00:01.00", "00:29.00"]], "hook": "Nothing. / Shall we? -> cathedral doors explode", "cliff": "Arrest this imposter! / We will not. / Because we know who he is."},
+    {"id": "G18", "split": "test", "segments": [["44", "00:25.20", "01:10.50"]], "hook": "Alexander... I thought you had died.", "cliff": "Her?!"},
+    {"id": "G19", "split": "test", "segments": [["45", "01:02.60", "01:57.20"]], "hook": "You hurt the two women who mattered most to me", "cliff": "You are not Alexander Ashburton's lawful wife."},
+    {"id": "G20", "split": "test", "segments": [["33", "00:59.00", "01:46.50"]], "hook": "Think carefully. Your brother is still a pauper.", "cliff": "She was praying!"}
+  ]
+}
