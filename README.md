@@ -5,6 +5,8 @@ Reads a show's timestamped episode scripts and returns ranked 20–60 s promo cl
 - **Runs free and offline by default.** It uses Python's standard library only: no installs and no API key. A 50-episode show takes about 5 s.
 - **Optional LLM judge.** Any model can be plugged in (Gemini free tier, Groq, OpenRouter, OpenAI, or a local Ollama). It scores and describes the shortlisted clips. It can't invent timestamps.
 
+**Raw outputs from the full 50-episode input pack:** [Google Drive folder](https://drive.google.com/drive/folders/1uQ-W4GSnAW3_XdXLK2cAbsRLu6rwFc1S). They're kept out of this repo because they quote the confidential scripts.
+
 ## Run it
 
 ```bash
